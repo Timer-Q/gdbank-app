@@ -1,0 +1,18 @@
+.receipt-content-info {
+  padding: .525rem .75rem 1.275rem;
+  overflow: hidden;
+  dl {
+    clear: left;
+    line-height: 1.5rem;
+    dt {
+      float: left;
+      color: #666666;
+      font-size: .75rem;
+    }
+    dd {
+      float: right;
+      color: #666666;
+      font-size: .8rem;
+    }
+  }
+}
